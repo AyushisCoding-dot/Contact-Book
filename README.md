@@ -1,2 +1,2 @@
 # Contact-Book
-A console based or GUI application for storing , viewing , Adding , updating And deleting contact information
+A console based or GUI application for storing , viewing , Adding , updating and deleting contact information
